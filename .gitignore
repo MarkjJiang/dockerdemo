@@ -4,3 +4,5 @@ build
 demo.iml
 demo.ipr
 demo.iws
+
+!scripts/build
